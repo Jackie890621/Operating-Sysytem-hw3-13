@@ -1,6 +1,6 @@
 # Operating-Sysytem-hw3-13
 C
-## Textnook
+## Textbook
 “Operating System Concepts,” Abraham Silberschatz, Peter B. Galvin, and Greg Gagne, JOHN WILEY & SONS. INC., 8th edition, 2010.
 ## Objective
 
